@@ -13,7 +13,7 @@ public class quiz {
 		System.out.println("소나타 사양 : " + sonata.getWidth() + " " + sonata.getHeight());
 		System.out.println("소나타 마일리지 : " + sonata.getTotalMileage());
 		
-		Sonata gran = new Sonata("grand", 4000, 500, 6000, 1.3, 2.2, 16.0, 10.0);
+		Sonata gran = new gran("grand", 4000, 500, 6000, 1.3, 2.2, 16.0, 10.0);
 		
 		sonata.setTotalMileage(10.0);
 		
