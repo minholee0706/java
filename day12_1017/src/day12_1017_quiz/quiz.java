@@ -18,8 +18,8 @@ public class quiz {
 		sonata.setTotalMileage(10.0);
 		
 		System.out.println("그렌져 모델명 : " + gran.getName());
-		System.out.println("소나타 사양 : " + gran.getWidth() + " " + gran.getHeight());
-		System.out.println("소나타 마일리지 : " + gran.getTotalMileage());
+		System.out.println("그랜져 사양 : " + gran.getWidth() + " " + gran.getHeight());
+		System.out.println("그랜져 마일리지 : " + gran.getTotalMileage());
 		
 	}
 
