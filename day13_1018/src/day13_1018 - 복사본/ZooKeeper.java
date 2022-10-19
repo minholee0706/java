@@ -16,7 +16,7 @@ public class ZooKeeper {
 		System.out.println("FEED " + predator.getFood());
 	}
 	
-	void show(Show p) {
+	void show(Predator p) {
 		System.out.println(p.getShow());
 	}
 	
